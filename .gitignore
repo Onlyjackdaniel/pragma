@@ -1,6 +1,9 @@
 # Local tooling / preview config (contains machine-specific absolute paths)
 .claude/
 
+# Internal deliverable previews (not part of the public site)
+_preview/
+
 # OS / editor cruft
 .DS_Store
 Thumbs.db
